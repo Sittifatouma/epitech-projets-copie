@@ -1,0 +1,59 @@
+name: Main CI
+
+on:
+  - pull_request
+  - push
+jobs:
+  linux:
+    name: Test on Ubuntu (Elixir ${{ matrix.elixir }}, OTP ${{ matrix.otp }})
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        elixir:
+          - '1.12'
+        otp:
+          - '24.1'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Elixir
+        uses: erlef/setup-beam@v1
+        with:
+          elixir-version: ${{ matrix.elixir }}
+          otp-version: ${{ matrix.otp }}
+      - name: Restore deps
+        uses: actions/cache@v2
+        with:
+          path: deps
+          key: deps-${{ runner.os }}-${{ matrix.elixir }}-${{ matrix.otp }}-${{ hashFiles(format('{0}{1}', github.workspace, '/mix.lock')) }}
+      - name: Restore _build
+        uses: actions/cache@v2
+        with:
+          path: _build
+          key: _build-${{ runner.os }}-${{ matrix.elixir }}-${{ matrix.otp }}-${{ hashFiles(format('{0}{1}', github.workspace, '/mix.lock')) }}
+      - name: Get dependencies
+        run: bash -c "cd timeManagerApp/Phoenix/ && mix deps.get"
+      - name: Compile dependencies
+        run: bash -c "cd timeManagerApp/Phoenix/ && MIX_ENV=test mix deps.compile"
+      - name: Compile project
+        run: bash -c "cd timeManagerApp/Phoenix/ && MIX_ENV=test mix compile --warnings-as-errors"
+      - name: Run docker compose build
+        run: |
+            cd timeManagerApp/
+            docker-compose build
+  vuejs:
+    name: Test on Ubuntu (VueJs)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Vue
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Install and build VueJS
+        run: |
+            cd timeManagerApp/vuejs/
+            npm install 
+            npm run build

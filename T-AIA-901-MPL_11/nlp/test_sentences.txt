@@ -1,0 +1,61 @@
+De Paris, je vais à Marseille.
+Je cherche un voyage de Toulouse à Nantes.
+Je vais à Toulouse pour aller à Lyon.
+Du Havre, je me rends à Nice.
+Est-ce que tu peux me trouver un itinéraire de Paris à Montpellier.
+Je me rend à Bordeaux en quittant Strasbourg.
+Je désire voyager de Marseille à Nantes en train.
+Je pars de Montpellier pour aller à Rennes.
+De Toulon, je me rends à Grenoble.
+Donnez-moi un itinéraire pour aller à Lyon depuis Marseille s'il vous plaît.
+Je quitte Rouen pour me rendre à Perpignan.
+De Dijon, je vais à Le Mans.
+Je pars à Mulhouse de Rennes.
+De Limoges, je me rends à Clermont-Ferrand.
+Je quitte Nantes pour me rendre à Caen.
+Je cherche un voyage de Toulouse à Nantes
+Je pars de Grenoble pour aller à Le Havre.
+Je me rends à Rouen depuis Bordeaux.
+Je quitte Toulouse pour me rendre à Metz.
+Depuis Nice, je vais à Caen.
+Je pars de Montpellier pour aller à Le Mans.
+Je suis à la recherche d\'un voyage de Montpellier à Paris.
+Je me rend à Lille et je vais quitter Perpignan.
+Est-ce que vous savez comment aller de Strasbourg à Lille.
+Je pars de Biarritz pour aller à Limoges.
+De Montpellier, je me rends à Toulon.
+Je vais partir de Paris pour aller passer quelques jours à Marseille.
+Je vais à Dijon de Clermont-Ferrand. 
+Je pars de Bordeaux pour aller à Le Havre.
+Je vais faire un week-end à Lyon, je pars ce soir de Montpellier.
+De Marseille, je vais à Nice en passant par Aix-en-Provence.
+Je pars de Lille pour aller à Bordeaux, en faisant escale à Toulouse.
+Du Havre, je me rends à Grenoble en passant par Paris.
+Je quitte Strasbourg pour me rendre à Nantes, en passant par Tours.
+De Lyon, je vais à Perpignan en passant par Montpellier.
+Je pars depuis Metz pour aller à Brest, en faisant escale à Rennes.
+De Toulon, je me rends à Biarritz en passant par Marseille.
+Je quitte Rouen pour me rendre à Ajaccio, en passant par Nice.
+De Dijon, je vais à Saint-Denis en passant par Lyon.
+Je pars de Rennes pour aller à Mulhouse, en faisant escale à Strasbourg.
+De Limoges, je me rends à Clermont-Ferrand en passant par Orléans.
+Je quitte Nantes pour me rendre à Nice, en passant par Marseille.
+De Reims, je vais à Toulouse en passant par Lyon.
+Je pars de Grenoble pour aller à Le Havre, en faisant escale à Paris.
+De Bordeaux, je me rends à Rouen en passant par Nantes.
+Je quitte Toulouse pour me rendre à Metz, en passant par Clermont-Ferrand.
+Je pars de Montpellier pour aller à Le Mans, en faisant escale à Tours.
+De Brest, je me rends à Dijon en passant par Rennes.
+Je quitte Perpignan pour me rendre à Lille, en passant par Toulouse.
+Je pars de Biarritz pour aller à Limoges, en faisant escale à Bordeaux.
+Je quitte Le Mans pour me rendre à Caen, en passant par Orléans.
+Je pars de Ajaccio pour aller à Le Havre, en faisant escale à Nice.
+Je quitte Caen pour me rendre à Mulhouse, en passant par Reims.
+De Marseille, je vais à Le Mans en passant par Nantes.
+Je pars de Lyon pour aller à Perpignan, en faisant escale à Montpellier.
+Je pars de Marseille pour aller à Nantes, en faisant escale à Bordeaux.
+De Toulouse, je me rends à Nice en passant par Marseille.
+Je quitte Grenoble pour me rendre à Rouen, en passant par Lyon.
+De Dijon, je vais à Mulhouse en passant par Strasbourg.
+Je pars de Bordeaux pour aller à Metz, en faisant escale à Toulouse.
+Je quitte Le Havre pour me rendre à Clermont-Ferrand, en passant par Orléans.

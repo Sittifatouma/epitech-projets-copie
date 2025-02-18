@@ -1,0 +1,59 @@
+version: "3.7"
+
+services:
+    front:
+        build:
+            context: .
+            dockerfile: ./front/Dockerfile
+        entrypoint: bash -c "yarn watch --force"
+        restart: unless-stopped
+        volumes:
+            - ./front:/app/front
+        working_dir: /app/front
+        ports:
+            - "${FRONT_PORT}:3000"
+
+    back:
+        build:
+            context: .
+            dockerfile: ./back/Dockerfile
+        restart: unless-stopped
+        volumes:
+            - ./back:/app/back  
+        working_dir: /app/back
+        environment:
+            - SPRING_DATASOURCE_URL=${BACK_DB_URL}
+            - SPRING_DATASOURCE_USERNAME=${DB_USER}
+            - SPRING_DATASOURCE_PASSWORD=${DB_PASS}
+            - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+        ports:
+            - "${BACK_PORT}:8080"
+        depends_on:
+            db:
+                condition: service_healthy
+        networks:
+            db_network:
+
+    db:
+        image: postgres
+        ports:
+            - "${DB_PORT}:5432"
+        volumes:
+            - db_volume:/var/lib/postgresql/data
+        environment:
+            - POSTGRES_USER=${DB_USER}
+            - POSTGRES_PASSWORD=${DB_PASS}
+            - POSTGRES_DB=${DB_NAME}
+        healthcheck:
+            test: ["CMD-SHELL", "pg_isready -U postgres"]
+            interval: 10s
+            timeout: 5s
+            retries: 5
+        networks:
+            db_network:
+
+volumes:
+    db_volume:
+
+networks:
+    db_network:

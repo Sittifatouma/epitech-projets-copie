@@ -1,0 +1,56 @@
+---
+- name: Backend
+  hosts: backend
+  remote_user: root
+  tasks:
+  - name: FILE | Create directory
+    file:
+      path: "{{ workdir }}"
+      state: directory
+      owner: "{{ user }}"
+      group: "{{ user }}"
+      mode: 0775
+      recurse: yes
+
+  - name: FILE | Copy backend project
+    copy:
+      src: ../../backend/back/
+      dest: "{{ workdir }}"
+      owner: "{{ user }}"
+      group: "{{ user }}"
+
+  - include_role:
+      name: ../roles/php/
+
+  - name: COMPOSER | Composer update
+    become: true
+    become_user: "{{ user }}"
+    composer:
+      command: update
+      working_dir: "{{ workdir }}"
+
+  - name: COMPOSER | Composer install
+    become: true
+    become_user: "{{ user }}"
+    composer:
+      command: install
+      no_dev: no
+      working_dir: "{{ workdir }}"
+
+  - name: PHP | Migration
+    become: true
+    become_user: "{{ user }}"
+    command: php artisan migrate --force
+    args:
+      chdir: "{{ workdir }}"
+
+  - include_role:
+      name: ../roles/nodejs
+  
+  - name: NPM | Build application 
+    command: npm run prod
+    args:
+      chdir: "{{ workdir }}"
+
+  - include_role:
+      name: ../roles/nginx

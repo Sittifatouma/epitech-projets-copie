@@ -1,0 +1,12 @@
+.env
+postgres
+postgres.conf
+schema.sql
+app
+.idea
+sqldata/
+back/entrypoint.sh
+back/.gitattributes
+back/config/db.config.js
+back/config/config.json
+back/config/config.json

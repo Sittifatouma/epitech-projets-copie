@@ -1,0 +1,41 @@
+name: Voltron Deployment 
+
+on:
+  push:
+    branches: 
+      - master
+      - feature/*
+      - main
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  setup-build-publish-deploy:
+    name: Setup, Build, Publish, and Deploy
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+    - name: Trigger Message 📥
+      run: |-
+        echo " The job was automatically triggered by a ${{ github.event_name }} event."
+        echo "This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+        echo "The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+
+    - name: Checkout 😇
+      uses: actions/checkout@v2
+
+    - name: Add Config iot 🏗
+      run: |-
+        echo "${{ secrets.CONFIG_IOT }}" > ${{ github.workspace }}/iot/.env
+
+    # Deploy the Docker image to the GKE cluster
+    - name: Deploy 🛬
+      run: |-
+        echo "${{ secrets.ANSIBLE_HOST }}" > ${{ github.workspace }}/ansible/config/hosts
+        ansible-playbook -v playbook.yml
+
+    # Cleanup
+    - name: Cleanup 🚿
+      run: |-
+        docker images
+        echo "🎉 This job's status is ${{ job.status }}."

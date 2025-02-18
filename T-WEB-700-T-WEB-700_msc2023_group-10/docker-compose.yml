@@ -1,0 +1,41 @@
+version: '3.8'
+services:
+  api:
+    build:
+      context: ./back
+      dockerfile: Dockerfile
+    # container_name: $API_CONTAINER_NAME
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./back:/api
+    depends_on:
+      - db
+    env_file:
+      - .env
+
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - ./sqldata:/var/lib/postgresql/data/pgdata
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+
+  vue-ui:
+    build:
+      context: ./front
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    # container_name: $APP_CONTAINER_NAME
+    volumes:
+      - ./front/src:/app/src
+      - /app/node_modules
+
+volumes:
+  postgres:

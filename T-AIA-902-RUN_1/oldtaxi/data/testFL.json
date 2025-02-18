@@ -1,0 +1,6002 @@
+[
+    {
+        "Game_Number": 0,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 1,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 2,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 3,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 4,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 5,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 6,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 7,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 8,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 9,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 10,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 11,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 12,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 13,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 14,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 15,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 16,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 17,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 18,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 19,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 20,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 21,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 22,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 23,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 24,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 25,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 26,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 27,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 28,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 29,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 30,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 31,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 32,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 33,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 34,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 35,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 36,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 37,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 38,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 39,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 40,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 41,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 42,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 43,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 44,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 45,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 46,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 47,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 48,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 49,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 50,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 51,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 52,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 53,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 54,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 55,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 56,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 57,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 58,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 59,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 60,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 61,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 62,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 63,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 64,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 65,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 66,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 67,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 68,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 69,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 70,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 71,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 72,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 73,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 74,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 75,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 76,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 77,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 78,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 79,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 80,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 81,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 82,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 83,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 84,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 85,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 86,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 87,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 88,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 89,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 90,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 91,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 92,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 93,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 94,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 95,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 96,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 97,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 98,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 99,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 100,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 101,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 102,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 103,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 104,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 105,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 106,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 107,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 108,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 109,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 110,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 111,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 112,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 113,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 114,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 115,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 116,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 117,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 118,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 119,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 120,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 121,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 122,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 123,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 124,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 125,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 126,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 127,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 128,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 129,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 130,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 131,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 132,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 133,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 134,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 135,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 136,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 137,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 138,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 139,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 140,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 141,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 142,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 143,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 144,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 145,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 146,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 147,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 148,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 149,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 150,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 151,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 152,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 153,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 154,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 155,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 156,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 157,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 158,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 159,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 160,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 161,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 162,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 163,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 164,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 165,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 166,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 167,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 168,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 169,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 170,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 171,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 172,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 173,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 174,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 175,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 176,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 177,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 178,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 179,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 180,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 181,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 182,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 183,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 184,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 185,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 186,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 187,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 188,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 189,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 190,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 191,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 192,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 193,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 194,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 195,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 196,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 197,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 198,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 199,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 200,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 201,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 202,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 203,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 204,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 205,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 206,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 207,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 208,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 209,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 210,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 211,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 212,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 213,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 214,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 215,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 216,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 217,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 218,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 219,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 220,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 221,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 222,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 223,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 224,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 225,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 226,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 227,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 228,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 229,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 230,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 231,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 232,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 233,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 234,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 235,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 236,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 237,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 238,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 239,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 240,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 241,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 242,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 243,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 244,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 245,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 246,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 247,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 248,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 249,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 250,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 251,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 252,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 253,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 254,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 255,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 256,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 257,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 258,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 259,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 260,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 261,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 262,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 263,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 264,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 265,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 266,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 267,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 268,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 269,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 270,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 271,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 272,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 273,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 274,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 275,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 276,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 277,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 278,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 279,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 280,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 281,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 282,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 283,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 284,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 285,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 286,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 287,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 288,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 289,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 290,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 291,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 292,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 293,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 294,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 295,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 296,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 297,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 298,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 299,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 300,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 301,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 302,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 303,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 304,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 305,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 306,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 307,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 308,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 309,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 310,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 311,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 312,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 313,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 314,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 315,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 316,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 317,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 318,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 319,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 320,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 321,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 322,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 323,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 324,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 325,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 326,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 327,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 328,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 329,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 330,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 331,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 332,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 333,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 334,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 335,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 336,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 337,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 338,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 339,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 340,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 341,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 342,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 343,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 344,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 345,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 346,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 347,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 348,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 349,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 350,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 351,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 352,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 353,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 354,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 355,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 356,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 357,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 358,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 359,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 360,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 361,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 362,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 363,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 364,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 365,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 366,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 367,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 368,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 369,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 370,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 371,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 372,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 373,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 374,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 375,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 376,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 377,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 378,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 379,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 380,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 381,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 382,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 383,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 384,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 385,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 386,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 387,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 388,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 389,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 390,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 391,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 392,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 393,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 394,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 395,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 396,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 397,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 398,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 399,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 400,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 401,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 402,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 403,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 404,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 405,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 406,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 407,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 408,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 409,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 410,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 411,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 412,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 413,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 414,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 415,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 416,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 417,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 418,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 419,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 420,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 421,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 422,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 423,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 424,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 425,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 426,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 427,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 428,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 429,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 430,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 431,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 432,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 433,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 434,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 435,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 436,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 437,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 438,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 439,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 440,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 441,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 442,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 443,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 444,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 445,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 446,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 447,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 448,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 449,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 450,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 451,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 452,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 453,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 454,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 455,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 456,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 457,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 458,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 459,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 460,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 461,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 462,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 463,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 464,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 465,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 466,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 467,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 468,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 469,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 470,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 471,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 472,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 473,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 474,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 475,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 476,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 477,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 478,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 479,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 480,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 481,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 482,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 483,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 484,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 485,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 486,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 487,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 488,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 489,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 490,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 491,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 492,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 493,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 494,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 495,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 496,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 497,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 498,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 499,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 500,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 501,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 502,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 503,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 504,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 505,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 506,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 507,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 508,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 509,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 510,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 511,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 512,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 513,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 514,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 515,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 516,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 517,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 518,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 519,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 520,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 521,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 522,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 523,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 524,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 525,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 526,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 527,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 528,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 529,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 530,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 531,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 532,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 533,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 534,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 535,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 536,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 537,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 538,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 539,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 540,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 541,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 542,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 543,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 544,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 545,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 546,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 547,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 548,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 549,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 550,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 551,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 552,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 553,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 554,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 555,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 556,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 557,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 558,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 559,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 560,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 561,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 562,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 563,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 564,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 565,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 566,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 567,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 568,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 569,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 570,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 571,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 572,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 573,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 574,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 575,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 576,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 577,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 578,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 579,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 580,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 581,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 582,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 583,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 584,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 585,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 586,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 587,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 588,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 589,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 590,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 591,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 592,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 593,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 594,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 595,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 596,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 597,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 598,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 599,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 600,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 601,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 602,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 603,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 604,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 605,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 606,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 607,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 608,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 609,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 610,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 611,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 612,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 613,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 614,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 615,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 616,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 617,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 618,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 619,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 620,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 621,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 622,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 623,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 624,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 625,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 626,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 627,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 628,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 629,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 630,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 631,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 632,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 633,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 634,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 635,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 636,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 637,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 638,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 639,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 640,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 641,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 642,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 643,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 644,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 645,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 646,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 647,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 648,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 649,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 650,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 651,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 652,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 653,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 654,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 655,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 656,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 657,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 658,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 659,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 660,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 661,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 662,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 663,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 664,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 665,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 666,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 667,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 668,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 669,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 670,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 671,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 672,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 673,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 674,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 675,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 676,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 677,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 678,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 679,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 680,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 681,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 682,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 683,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 684,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 685,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 686,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 687,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 688,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 689,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 690,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 691,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 692,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 693,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 694,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 695,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 696,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 697,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 698,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 699,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 700,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 701,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 702,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 703,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 704,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 705,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 706,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 707,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 708,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 709,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 710,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 711,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 712,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 713,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 714,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 715,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 716,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 717,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 718,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 719,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 720,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 721,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 722,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 723,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 724,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 725,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 726,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 727,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 728,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 729,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 730,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 731,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 732,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 733,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 734,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 735,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 736,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 737,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 738,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 739,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 740,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 741,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 742,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 743,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 744,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 745,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 746,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 747,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 748,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 749,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 750,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 751,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 752,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 753,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 754,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 755,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 756,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 757,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 758,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 759,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 760,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 761,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 762,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 763,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 764,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 765,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 766,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 767,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 768,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 769,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 770,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 771,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 772,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 773,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 774,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 775,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 776,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 777,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 778,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 779,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 780,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 781,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 782,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 783,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 784,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 785,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 786,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 787,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 788,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 789,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 790,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 791,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 792,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 793,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 794,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 795,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 796,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 797,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 798,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 799,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 800,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 801,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 802,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 803,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 804,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 805,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 806,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 807,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 808,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 809,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 810,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 811,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 812,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 813,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 814,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 815,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 816,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 817,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 818,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 819,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 820,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 821,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 822,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 823,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 824,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 825,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 826,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 827,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 828,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 829,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 830,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 831,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 832,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 833,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 834,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 835,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 836,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 837,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 838,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 839,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 840,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 841,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 842,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 843,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 844,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 845,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 846,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 847,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 848,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 849,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 850,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 851,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 852,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 853,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 854,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 855,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 856,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 857,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 858,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 859,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 860,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 861,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 862,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 863,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 864,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 865,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 866,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 867,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 868,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 869,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 870,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 871,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 872,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 873,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 874,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 875,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 876,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 877,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 878,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 879,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 880,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 881,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 882,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 883,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 884,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 885,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 886,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 887,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 888,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 889,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 890,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 891,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 892,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 893,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 894,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 895,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 896,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 897,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 898,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 899,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 900,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 901,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 902,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 903,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 904,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 905,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 906,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 907,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 908,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 909,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 910,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 911,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 912,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 913,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 914,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 915,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 916,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 917,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 918,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 919,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 920,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 921,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 922,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 923,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 924,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 925,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 926,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 927,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 928,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 929,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 930,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 931,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 932,
+        "Steps": 9,
+        "Points": 12,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 933,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 934,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 935,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 936,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 937,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 938,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 939,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 940,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 941,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 942,
+        "Steps": 6,
+        "Points": 15,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 943,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 944,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 945,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 946,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 947,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 948,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 949,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 950,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 951,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 952,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 953,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 954,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 955,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 956,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 957,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 958,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 959,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 960,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 961,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 962,
+        "Steps": 17,
+        "Points": 4,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 963,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 964,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 965,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 966,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 967,
+        "Steps": 18,
+        "Points": 3,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 968,
+        "Steps": 16,
+        "Points": 5,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 969,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 970,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 971,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 972,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 973,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 974,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 975,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 976,
+        "Steps": 8,
+        "Points": 13,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 977,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 978,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 979,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 980,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 981,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 982,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 983,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 984,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 985,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 986,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 987,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 988,
+        "Steps": 10,
+        "Points": 11,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 989,
+        "Steps": 7,
+        "Points": 14,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 990,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 991,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 992,
+        "Steps": 12,
+        "Points": 9,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 993,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 994,
+        "Steps": 13,
+        "Points": 8,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 995,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 996,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 997,
+        "Steps": 14,
+        "Points": 7,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 998,
+        "Steps": 11,
+        "Points": 10,
+        "Training_number": 2000.0
+    },
+    {
+        "Game_Number": 999,
+        "Steps": 15,
+        "Points": 6,
+        "Training_number": 2000.0
+    }
+]

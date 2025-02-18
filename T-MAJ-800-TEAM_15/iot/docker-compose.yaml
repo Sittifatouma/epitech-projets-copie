@@ -1,0 +1,48 @@
+version: '3.9'
+
+services:
+  influxdb:
+    container_name: iot-influxdb-voltron
+    image: influxdb:latest
+    restart: always
+    ports:
+      - 8086:8086
+    volumes:
+      - influxdb-storage:/var/lib/influxdb2
+    environment:
+      DOCKER_INFLUXDB_INIT_MODE: ${DOCKER_INFLUXDB_INIT_MODE}
+      DOCKER_INFLUXDB_INIT_USERNAME: ${DOCKER_INFLUXDB_INIT_USERNAME}
+      DOCKER_INFLUXDB_INIT_PASSWORD: ${DOCKER_INFLUXDB_INIT_PASSWORD}
+      DOCKER_INFLUXDB_INIT_ORG: ${DOCKER_INFLUXDB_INIT_ORG}
+      DOCKER_INFLUXDB_INIT_BUCKET: ${DOCKER_INFLUXDB_INIT_BUCKET}
+      DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: ${DOCKER_INFLUXDB_INIT_ADMIN_TOKEN}
+
+  telegraf:
+    container_name: iot-telegraf-voltron
+    restart: always
+    image: telegraf:latest
+    links:
+      - influxdb
+    volumes:
+      - ${PWD}/mqtt.telegraf.conf:/etc/telegraf/telegraf.conf
+    environment:
+      DOCKER_INFLUXDB_INIT_ORG: ${DOCKER_INFLUXDB_INIT_ORG}
+      DOCKER_INFLUXDB_INIT_BUCKET: ${DOCKER_INFLUXDB_INIT_BUCKET}
+      DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: ${DOCKER_INFLUXDB_INIT_ADMIN_TOKEN}
+    depends_on:
+      - influxdb
+
+  mosquitto:
+    container_name: iot-mosquitto-voltron
+    image: eclipse-mosquitto:latest
+    restart: always
+    ports:
+      - 1883:1883
+      - 9001:9001
+    volumes:
+      - ${PWD}/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - mosquitto-storage:/mosquitto/log
+
+volumes:
+  influxdb-storage:
+  mosquitto-storage:

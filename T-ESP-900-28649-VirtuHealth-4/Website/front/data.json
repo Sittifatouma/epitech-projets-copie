@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Martin",
+        "lastname": "Lucie",
+        "email": "lucie.martin@email.com",
+        "university": "Université de Montréal",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona1.jpg"
+    },
+    {
+        "name": "Gagnon",
+        "lastname": "Maxime",
+        "email": "maxime.gagnon@email.com",
+        "university": "Université Laval",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona2.jpg"
+    },
+    {
+        "name": "Lavoie",
+        "lastname": "Alexandre",
+        "email": "alexandre.lavoie@email.com",
+        "university": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona3.jpg"
+    },
+    {
+        "name": "Tremblay",
+        "lastname": "Sophie",
+        "email": "sophie.tremblay@email.com",
+        "university": "Université de Montréal",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona4.jpg"
+    },
+    {
+        "name": "Morin",
+        "lastname": "Antoine",
+        "email": "antoine.morin@email.com",
+        "university": "Université Laval",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona5.jpg"
+    },
+    {
+        "name": "Dion",
+        "lastname": "Isabelle",
+        "email": "isabelle.dion@email.com",
+        "university": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona6.jpg"
+    },
+    {
+        "name": "Beauchemin",
+        "lastname": "Charles",
+        "email": "charles.beauchemin@email.com",
+        "university": "Université de Montréal",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona7.jpg"
+    },
+    {
+        "name": "Côté",
+        "lastname": "Marie",
+        "email": "marie.cote@email.com",
+        "university": "Université Laval",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona8.jpg"
+    },
+    {
+        "name": "Leclerc",
+        "lastname": "Vincent",
+        "email": "vincent.leclerc@email.com",
+        "university": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona9.jpg"
+    },
+    {
+        "name": "Roy",
+        "lastname": "Catherine",
+        "email": "catherine.roy@email.com",
+        "university": "Université de Montréal",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona10.jpg"
+    },
+    {
+        "name": "Deschênes",
+        "lastname": "Philippe",
+        "email": "philippe.deschenes@email.com",
+        "university": "Université Laval",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona11.jpg"
+    },
+    {
+        "name": "Gauthier",
+        "lastname": "Émilie",
+        "email": "emilie.gauthier@email.com",
+        "université": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona12.jpg"
+    },
+    {
+        "name": "Ramirez",
+        "lastname": "Karlos",
+        "email": "karlos.ramirez@email.com",
+        "université": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona13.jpg"
+    },
+    {
+        "name": "Monica",
+        "lastname": "Sinial",
+        "email": "monica.sinila@email.com",
+        "université": "Université de Laval",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona14.jpg"
+    },
+    {
+        "name": "Jean-luc",
+        "lastname": "Du Chêne",
+        "email": "jl.duchene@email.com",
+        "université": "Université de Sherbrooke",
+        "degree": "Psychiatre",
+        "picture": "/img/profilPic/persona15.jpg"
+    }
+]

@@ -1,0 +1,35 @@
+---
+- name: frontend
+  hosts: frontend
+  remote_user: "{{ user }}"
+  tasks:
+
+  - name: DOCKER | Stop and remove container
+    shell: |
+      docker stop {{ container_name_influxdb }} {{ container_name_telegraf }} {{ container_name_mosquitto }}  || true
+      docker rm {{ container_name_influxdb }} {{ container_name_telegraf }} {{ container_name_mosquitto }}  || true
+    args:
+      chdir: "{{ workdir }}"
+
+  - name: COPY | Copy DB script
+    copy:
+      src: iot/
+      dest: "/home/{{ user }}"
+      owner: "{{ user }}"
+      group: "{{ user }}"
+      mode: "0755"
+      force: yes
+    remote_user: "root"
+
+  - name: FILE | Change permissions
+    shell: |
+      sudo chown -R {{ user }}:{{ user }} /home/{{ user }}/mosquitto.conf
+
+  - name: DOCKER | Compose
+    shell: |
+      docker-compose -f {{ workdir }}docker-compose.yaml build
+      docker-compose -f {{ workdir }}docker-compose.yaml up  -d
+    args:
+      chdir: "{{ workdir }}"
+
+

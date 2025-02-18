@@ -1,0 +1,31 @@
+---
+- name: frontend
+  hosts: frontend
+  remote_user: root
+  tasks:
+  - name: FILE | Create directory
+    file:
+      path: "{{ workdir }}"
+      state: directory
+      owner: "{{ user }}"
+      group: "{{ user }}"
+      mode: 0775
+      recurse: yes
+
+  - name: FILE | Copy frontend project
+    copy:
+      src: ../../frontend/front/
+      dest: "{{ workdir }}"
+      owner: "{{ user }}"
+      group: "{{ user }}"
+
+  - include_role:
+      name: ../roles/nodejs/
+
+  - name: NPM | Build application
+    command: npm run build -- --prod
+    args:
+      chdir: "{{ workdir }}"
+
+  - include_role:
+      name: ../roles/nginx/

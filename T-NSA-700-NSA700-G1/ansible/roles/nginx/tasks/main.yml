@@ -1,0 +1,34 @@
+---
+- name: NGINX | Install nginx 
+  apt: 
+    update_cache: yes
+    name: nginx
+    state: present
+
+- name: NGINX | Remove default server
+  file:
+    path: /etc/nginx/sites-enabled/default
+    state: absent
+
+- name: NGINX | Copy custom conf
+  template:
+    src: "{{ nginx_conf }}"
+    dest: "/etc/nginx/sites-available/{{ app_name }}"
+
+- name: NGINX | Copy app
+  copy:
+    remote_src: yes
+    src: "{{ artifact_dir }}/"
+    dest: "/var/www/{{ app_name }}"
+    owner: "www-data"
+    group: "www-data"
+
+- name: NGINX | Create site symlink
+  file:
+    src: "/etc/nginx/sites-available/{{ app_name }}"
+    dest: "/etc/nginx/sites-enabled/{{ app_name }}"
+    state: link
+
+- name: NGINX | Test config is ok
+  command: "nginx -t"
+  notify: Reload nginx
